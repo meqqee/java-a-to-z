@@ -1,7 +1,9 @@
 package ru.asemenchenko.lessons;
-
-/**
- * Created by meqqee on 14.10.16.
+/*
+ * Class for computing arithmetic operations: division, addition, multiplication and substraction
+ * @author Semenchenko
+ * @since 14.10.2016
+ * @version 1.0
  */
 public class Calculator {
     private double result = 0.0;
